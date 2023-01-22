@@ -1,0 +1,36 @@
+* {
+    background-color: rgba(0,0,0,1);
+    color: rgba(255, 88, 174, 0.8);
+    box-sizing: border-box;
+    border-style: solid;
+}
+
+#container {
+    width: auto;
+}
+
+
+#fun {
+    width:fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    border-width: 4px;
+    border-color:rgb(255, 255, 255);
+}
+
+#place {
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color:rgb(255, 255, 255)
+}
